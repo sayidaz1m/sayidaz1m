@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Sayidazim</h1>
 
-<!--
-**sayidaz1m/sayidaz1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>just starting — focused on getting better</p>
 
-Here are some ideas to get you started:
+### Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![stack](https://skillicons.dev/icons?i=python,cpp,godot,docker,git&perline=8)](https://skillicons.dev)
+
+#### Game Dev tools
+- Godot
+- Aseprite
+
+#### Learning for fun
+- Neovim (basic)
