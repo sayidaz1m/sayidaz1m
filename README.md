@@ -1,6 +1,6 @@
 <h1>Sayidazim</h1>
 
-<p>just starting — focused on getting better</p>
+<p>-just starting -focused on getting better</p>
 
 ### Toolkit
 
@@ -11,4 +11,5 @@
 - Aseprite
 
 #### Learning for fun
-- Neovim (basic)
+- Neovim
+  
