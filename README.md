@@ -6,10 +6,5 @@
 
 [![stack](https://skillicons.dev/icons?i=python,cpp,godot,docker,git&perline=8)](https://skillicons.dev)
 
-#### Game Dev tools
-- Godot
-- Aseprite
 
-#### Learning for fun
-- Neovim
   
