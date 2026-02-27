@@ -2,7 +2,7 @@
 
 ### Stack
 
-[![stack](https://skillicons.dev/icons?i=Golang,python,cpp,godot,docker,git&perline=8)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=go,docker,git,postgres&perline=8)](https://skillicons.dev)
 
 
   
