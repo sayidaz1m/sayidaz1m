@@ -4,5 +4,4 @@
 
 [![stack](https://skillicons.dev/icons?i=go,docker,git,postgres&perline=8)](https://skillicons.dev)
 
-
-  
+гений автоматизации 
